@@ -1,0 +1,92 @@
+{
+  "latest": {
+    "stable": "1.0.0",
+    "beta": "1.0.0-beta.4"
+  },
+  "changelogs": [
+    {
+      "title": "Beta 4",
+      "version": "1.0.0-beta.4",
+      "beta": true,
+      "description": "Moved pretty much everything",
+      "categories": [
+        {
+          "name": "Additions",
+          "changes": [
+            "Added Fullscreen setting",
+            "Added Shirtless setting",
+            "Added AiSkaters setting",
+            "Added DisableTutorial setting"
+          ]
+        },
+        {
+          "name": "Changes",
+          "changes": [
+            "Moved Disable Watermark to Settings menu",
+            "Moved Cosmetics to Settings menu",
+            "Renamed Cosmetics to Enable Cosmetics + Build Kit",
+            "Renamed Enable Debug Render to Enable Debug"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Beta 3",
+      "version": "1.0.0-beta.3",
+      "beta": true,
+      "description": "",
+      "categories": [
+        {
+          "name": "Additions",
+          "changes": [
+            "Added Enable Debug Render setting"
+          ]
+        },
+        {
+          "name": "Changes",
+          "changes": [
+            "Moved game rendering to settings menu"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Beta 2",
+      "version": "1.0.0-beta.2",
+      "beta": true,
+      "description": "It's now easier to update!",
+      "categories": [
+        {
+          "name": "Additions",
+          "changes": [
+            "Update Detection"
+          ]
+        },
+        {
+          "name": "Fixes",
+          "changes": [
+            "Fixed not being able to launch game without restarting after already launching the game"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Beta 1",
+      "version": "1.0.0-beta.1",
+      "beta": true,
+      "description": "Finally, the best open-source Skate launcher is out!",
+      "categories": [
+        {
+          "name": "Features",
+          "changes": [
+            "Full Customizability",
+            "Cosmetics",
+            "Building",
+            "Server Browser",
+            "Discord RPC"
+          ]
+        }
+      ]
+    }
+  ]
+}
